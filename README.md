@@ -1,7 +1,9 @@
 # C++ Nodejs Compiler
 The C++ Nodejs Compiler is a npm package that let's user to accept code and format (language) as an input and store it along with returning the result.
 Along with C++ there will be support for more languages in the future.
-
+<br>
+<br>
+[![npm version](https://badge.fury.io/js/cpp-nodejs-backend.svg)](https://badge.fury.io/js/cpp-nodejs-backend)
 ## Usage
 ```
 const { generateFile, executeCpp } = require("./index");
