@@ -6,7 +6,7 @@ Along with C++ there will be support for more languages in the future.
 [![npm version](https://badge.fury.io/js/cpp-nodejs-backend.svg)](https://badge.fury.io/js/cpp-nodejs-backend)
 ## Usage
 ```
-const { generateFile, executeCpp } = require("./index");
+const { generateFile, executeCpp } = require("cpp-nodejs-backend");
 
 const runTest = async () => {
   try {
